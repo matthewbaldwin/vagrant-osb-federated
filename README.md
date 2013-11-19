@@ -40,9 +40,9 @@ If you do not download Patchset 6, then you will need to modify the site.pp in t
 
 Notes about the install:
 
-vagrant up entbus - starts the enteprise bus
-vagrant up erpbus - starts the erpbus
-vagrant up xe11g - starts the XE11g database.
+- vagrant up entbus - starts the enteprise bus
+- vagrant up erpbus - starts the erpbus
+- vagrant up xe11g - starts the XE11g database.
 
 vagrant up - starts the whole enchilada (not recommended)
 
